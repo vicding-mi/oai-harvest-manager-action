@@ -31,7 +31,7 @@
             <artifactId>oai-harvest-manager</artifactId>
             <version>1.2.1</version>
             <scope>system</scope>
-            <systemPath>/Users/vic/Documents/DI/projects/oai-harvest-manager/target/oai-harvest-manager-1.2.1.ea944f.jar</systemPath>
+            <systemPath>/Users/vic/.m2/repository/nl/mpi/oai-harvest-manager/1.2.1/oai-harvest-manager-1.2.1.jar</systemPath>
         </dependency>
     </dependencies>
     
