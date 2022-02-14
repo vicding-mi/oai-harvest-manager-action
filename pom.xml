@@ -24,15 +24,21 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
+    <repositories>
+        <repository>
+            <id>Huygens</id>
+            <name>Huygens repository</name>
+            <url>https://maven.huygens.knaw.nl/repository/</url>
+        </repository>
+    </repositories>
+
 
     <dependencies>
         <dependency>
             <groupId>nl.mpi</groupId>
             <artifactId>oai-harvest-manager</artifactId>
             <version>1.2.1</version>
-            <scope>system</scope>
-            <systemPath>/Users/vic/.m2/repository/nl/mpi/oai-harvest-manager/1.2.1/oai-harvest-manager-1.2.1.jar</systemPath>
         </dependency>
     </dependencies>
-    
+
 </project>
